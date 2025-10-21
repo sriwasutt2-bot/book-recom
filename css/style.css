@@ -1,0 +1,12 @@
+.body {
+            background-color: #f0f1ab; /* สีพื้นหลังเป็นสีเทา */
+            
+        }
+.fonts-head {
+            font-family: 'Anuphan', sans-serif; /* กำหนดฟอนต์เป็น Anuphan Medium 500 */
+           font-weight: 300;
+        }
+p {
+    margin-top: 20px; /* เพิ่มช่องว่างด้านบนของย่อหน้า */
+    text-indent: 50px;
+}
